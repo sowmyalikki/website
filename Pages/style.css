@@ -1,0 +1,59 @@
+body{
+    font-size: large;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: rgb(4, 7, 7);
+    border-color: orangered; 
+    text-align: center;
+    background-color: white;
+
+}
+h1{
+    color: rgb(235, 42, 42);
+    text-align: center;
+}
+div{
+   color: black;
+   text-align: left;   
+}
+.img-silver{
+    background-color: brown;
+    padding: 5px;
+    margin: 5px;
+    border: 5px;width: 1300px;
+    height: 500px;
+}
+.img-earrings{
+    background-color: brown;
+    padding: 5px;
+    margin: 5px;
+    border: 5px;width: 200px;
+    height: auto;
+}
+.img-necklace{
+    background-color: brown;
+    padding: 5px;
+    margin: 5px;
+    border: 5px;width: 200px;
+    height: auto;  
+}
+.img-braclets{
+    background-color: brown;
+    padding: 5px;
+    margin: 5px;
+    border: 5px; width: 200px;
+    height: auto;    
+}
+.img-rings{
+    background-color: brown;
+    padding: 5px;
+    margin: 5px;
+    border: 5px; width: 200px;
+    height: auto;  
+}
+li{
+    text-align: left;
+}
